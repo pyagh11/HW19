@@ -68,7 +68,8 @@ To address:
 
 ![image](/images19/Picture16.png)
 
-or ETH we added private key manually from Ganache:
+for ETH we added private key manually from Ganache:
+
 ![image](/images19/Picture17.png)
 
 Then we ran our function and checked to verify the balance for the first account to ensure funding:
