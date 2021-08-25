@@ -29,7 +29,7 @@ Send_tx: This function will call create_tx, sign the transaction, then send it t
 
 # We are ready now to send some transaction using BTCTEST and ETH
 
-# BTCTEST
+# Transaction 1: BTCTEST
 
 # Select the first address and fund it
 ![image](/images19/Picture7.png)
@@ -49,7 +49,7 @@ Now use the "send_trx" function to send a transaction from first account to the 
 # Confirm Tnx was sent successfully:
 ![image](/images19/Picture14.png)
 
-# Next we test ETH: 
+# Transaction 2: ETH 
 
 
 For this excercise we interacted directly with Ganache for ETH 
