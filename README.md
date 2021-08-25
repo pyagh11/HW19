@@ -34,15 +34,15 @@ Send_tx: This function will call create_tx, sign the transaction, then send it t
 # Select the first address and fund it
 ![image](/images19/Picture7.png)
 
-![image](h/images19/Picture8.png)
+![image](/images19/Picture8.png)
 
 ![image](/images19/Picture9.png)
 
-![image](h/images19/Picture10.png)
+![image](/images19/Picture10.png)
 
 Then check the balance to verify:
 
-![image](h/images19/Picture11.png)
+![image](/images19/Picture11.png)
 
 # Next we choose a second BTCtest account from our list to send tnx to:
 ![image](/images19/Picture12.png)
