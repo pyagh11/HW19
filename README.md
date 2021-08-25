@@ -60,8 +60,11 @@ Now use the "send_trx" function to send a transaction from first account to the 
 For this excercise we interacted directly with Ganache for ETH 
 
 From address:
+
 ![image](/images19/Picture15.png)
+
 To address: 
+
 ![image](/images19/Picture16.png)
 
 or ETH we added private key manually from Ganache:
