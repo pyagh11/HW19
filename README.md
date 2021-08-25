@@ -7,7 +7,8 @@
 ![image](/images19/Picture1.png)
 
 
-Validate directory for wallet as below: 
+# Validate directory for wallet as below: 
+
 ![image](/images19/Picture2.png)
 
 ![image](/images19/Picture3.png)
