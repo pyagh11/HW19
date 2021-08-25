@@ -47,7 +47,8 @@ Then check the balance to verify:
 # Next we choose a second BTCtest account from our list to send tnx to:
 ![image](/images19/Picture12.png)
 
-Now use the "send_trx" function to send a transaction from first account to the second account.
+Now use the "send_trx" function to send a transaction from first account to the second account
+
 ![image](/images19/Picture13.png)
 
 # Confirm Tnx was sent successfully:
