@@ -16,6 +16,7 @@
 # We are ready now to create the python code, constants.py and wallet.py (wallet.ipynb located in directory).
 
 The following functions were created:
+
 ![image](/images19/Picture4.png)
 
 Priv_key_to_account function: This function will convert the privkey string in a child key to an account object that bit or web3.py can use to transaction
